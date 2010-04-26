@@ -45,7 +45,7 @@
 
 #define MAX_HOSTNAME_LENGTH            		64	/* max. host name length */
 #define MAX_SERVICEDESC_LENGTH			64	/* max. service description length */
-#define MAX_PLUGINOUTPUT_LENGTH			332	/* max. length of plugin output */
+#define MAX_PLUGINOUTPUT_LENGTH			8192	/* max. length of plugin output */
 
 #define MAX_STATE_HISTORY_ENTRIES		21	/* max number of old states to keep track of for flap detection */
 
